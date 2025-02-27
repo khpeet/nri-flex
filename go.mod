@@ -16,7 +16,7 @@ require (
 	github.com/itchyny/gojq v0.12.16
 	github.com/jeremywohl/flatten v1.0.1
 	github.com/lib/pq v1.10.9
-	github.com/newrelic-experimental/go-ase v1.2.0
+	github.com/newrelic-experimental/go-ase v1.3.0
 	github.com/newrelic/infra-integrations-sdk v3.8.2+incompatible
 	github.com/parnurzeal/gorequest v0.3.0
 	github.com/pkg/errors v0.9.1
@@ -96,7 +96,6 @@ require (
 	go.opentelemetry.io/otel v1.29.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.28.0 // indirect
 	go.opentelemetry.io/otel/metric v1.29.0 // indirect
-	go.opentelemetry.io/otel/sdk v1.29.0 // indirect
 	go.opentelemetry.io/otel/trace v1.29.0 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
 	golang.org/x/mod v0.19.0 // indirect
